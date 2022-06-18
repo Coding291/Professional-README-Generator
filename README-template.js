@@ -14,7 +14,7 @@ ${answers.description}
 
 ## Table of Contents 
 
-* [Questions](##Questions)
+* [Questions](#Questions)
 * [Description](##Description)
 * [Installations](##Installations)
 * [Usage](#Usage)
@@ -45,7 +45,7 @@ ${answers.Contributing}
 
 ## Questions 
 
-If you have any questions about the repo you can directly contact me at ${answers.email} 
+If you have any questions about the repo you can directly contact me at ${answers.email} or visit my github [${answers.name}] at https://github.com/Coding291
    `
    //here we create file that pass README that we created above
    createFile(README)

@@ -12,6 +12,6 @@
 
 
 
-# Deplyment Link
+# Walkthrough video Link
 
-https://coding291.github.io/Professional-README-Generator/
+
