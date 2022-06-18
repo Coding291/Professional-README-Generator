@@ -1,9 +1,13 @@
+//created a constant inquirer to obtain inquirer
 const inquirer = require('inquirer');
-
+// created a constant for generate template and set it to the relative path of that page
 const generateTemplate = require('./README-template.js');
 console.log(generateTemplate)
+// created a function here 
 const userInput = () => {
+    //return inquirer prompt and made an array of objects
     return inquirer.prompt([
+        //created user prompt using type name message and it validity
         {
          type: 'link', 
          name: 'name',
@@ -19,6 +23,7 @@ const userInput = () => {
         },
    
         {
+        // Same process for this and for the rest of them
         type: 'input',
         name: 'email',
         message: 'What is your email address?',
@@ -70,8 +75,9 @@ const userInput = () => {
   ])
     
     }
-
+    // we called the function here
     userInput()
+       //and using .then method we retrieve the answers to generate template
       .then(answers => {
           generateTemplate(answers)
       })

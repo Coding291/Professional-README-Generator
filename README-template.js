@@ -1,7 +1,11 @@
+// we created a file here
 const fs = require('fs');
+// we used let instead of var 
 let README;
+//created a function and gave it a parameter
 const generateTemplate = (answers) => {
    console.log(answers)
+   //Here we insert data by the assigning README to the following
    README = `# ${answers.Project}
    ![Github: license](https://img.shields.io/badge/License-MIT-yellow.svg)
 # Description
@@ -43,14 +47,16 @@ ${answers.Contributing}
 
 If you have any questions about the repo you can directly contact me at ${answers.email} 
    `
+   //here we create file that pass README that we created above
    createFile(README)
   
 }
-
+//We created another function and pass the parameter
 const createFile = (content) => {
+  // we pass three arguments one is the where is this sent to, second is what and the third if we catch an error
   fs.writeFile('./READMETemplate.md', content, err => {
   if (err) throw err;
-
+   //here is the message when everything is done and the template is created
   console.log('Done! Check out README.md to see the output!');
 });
 }
@@ -59,5 +65,5 @@ const createFile = (content) => {
 
 
 
-
+//here we export the template
 module.exports = generateTemplate;
