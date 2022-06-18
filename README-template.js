@@ -13,7 +13,7 @@ ${answers.description}
 * [Questions](##Questions)
 * [Description](##Description)
 * [Installations](##Installations)
-* [Usage](##Usage)
+* [Usage](#Usage)
 * [License](##License)
 * [Test](##Test)
 * [Contributing](##Contributing)
@@ -41,7 +41,7 @@ ${answers.Contributing}
 
 ## Questions 
 
-If you have any questions about the repo you can directly contact me at ${answers.email} or visit ${answers.name}
+If you have any questions about the repo you can directly contact me at ${answers.email} 
    `
    createFile(README)
   
