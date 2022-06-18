@@ -7,6 +7,8 @@
 # Screenshots
 
 ![Getting Started](/Assets/Screen%20Shot%202022-06-17%20at%208.12.23%20PM.png)
+![Getting Started](/Assets/Screen%20Shot%202022-06-17%20at%208.14.19%20PM.png)
+![Getting Started](/Assets/Screen%20Shot%202022-06-17%20at%208.14.42%20PM.png)
 
 
 
