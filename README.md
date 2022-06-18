@@ -6,9 +6,10 @@
 
 # Screenshots
 
-![Getting Started](/images/Screen%20Shot%202022-06-17%20at%208.12.23%20PM.pngimages/Screen Shot 2022-06-17 at 8.12.23 PM.png)
-![Getting Started](/images/Screen%20Shot%202022-06-17%20at%208.14.19%20PM.pngimages/Screen Shot 2022-06-17 at 8.14.19 PM.png)
-![Getting Started](/images/Screen%20Shot%202022-06-17%20at%208.14.42%20PM.pngimages/Screen Shot 2022-06-17 at 8.14.42 PM.png)
+![Getting Started](/Assets/Screen%20Shot%202022-06-17%20at%208.12.23%20PM.png)
 
 
 
+# Deplyment Link
+
+https://coding291.github.io/Professional-README-Generator/
