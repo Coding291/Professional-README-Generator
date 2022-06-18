@@ -8,7 +8,7 @@
 
 ![Getting Started]("images/Screen Shot 2022-06-17 at 8.12.23 PM.png")
 ![Getting Started]("images/Screen Shot 2022-06-17 at 8.14.19 PM.png")
-![Getting Started]("images/Screen Shot 2022-06-17 at 8.14.42 PM.png")
+![Getting Started]("images/Screen Shot 2022-06-17 at 8.14.42 PM.png");
 
 
 
